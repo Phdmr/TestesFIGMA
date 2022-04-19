@@ -23,7 +23,7 @@ body {
     font-family: var(--familia-titulo-destaque);
     color: var(--preto);
     font-size: var(--tamanho-titulo-destaque);
-    font-weight: var(--peso-titulo-destaque0);
+    font-weight: var(--peso-titulo-destaque);
 
     display: block;
 
